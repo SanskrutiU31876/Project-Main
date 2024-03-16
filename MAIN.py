@@ -9,7 +9,7 @@ def main():
 
     if col1.button("Vegetable Plant"):
         st.success("Website that provide useful information on growing vegetables https://www.almanac.com/gardening/growing-guides#Vegetable")
-        st.write("Click Here --> [Vegetable Plant Website](https://vegetable.streamlit.app)")
+        st.write("Click Here --> [Vegetable Plant Website](https://vegetable-pdd-tr.streamlit.app/)")
 
     if col2.button("Cash Crop"):
         st.success("Website that provide useful information on growing Cotton Plant https://cottontoday.cottoninc.com/cotton-and-water-better-management-of-an-increasingly-scarce-resource")
