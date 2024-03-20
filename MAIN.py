@@ -9,15 +9,15 @@ def main():
 
     if col1.button("Vegetable Plant"):
         st.success("Website that provide useful information on growing vegetables https://www.almanac.com/gardening/growing-guides#Vegetable")
-        st.write("Click Here --> [Vegetable Plant Website](https://vegetable-pdd-tr.streamlit.app/)")
+        st.write("Click Here --> [Vegetable Plant Website](https://jmukhgbdnz4wjhe3xxqwim.streamlit.app/)")
 
     if col2.button("Cash Crop"):
         st.success("Website that provide useful information on growing Cotton Plant https://cottontoday.cottoninc.com/cotton-and-water-better-management-of-an-increasingly-scarce-resource")
-        st.write("Click Here --> [Cash Crop Website](https://cash-crop.streamlit.app)")
+        st.write("Click Here --> [Cash Crop Website](https://vs2gugcmvthjkgg3kxinmj.streamlit.app/)")
 
     if col3.button("Cash Crop (BETA)"):
         st.success("Note - This website may not give you an accurate result because, its under development")
-        st.write("Click Here --> [Cash Crop [BETA] Website](https://cpddpy-qwhhpsykdudfcplonnvrr7.streamlit.app)")
+        st.write("Click Here --> [Cash Crop [BETA] Website]( https://cpddpy-92wtupr5nwgiuhb4idnh9q.streamlit.app/)")
 
 if __name__ == "__main__":
     main()
