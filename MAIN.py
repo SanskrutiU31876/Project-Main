@@ -8,11 +8,11 @@ def main():
     col1, col2, col3 = st.beta_columns(3)  # Using beta_columns to create two columns
 
     if col1.button("Vegetable Plant"):
-        st.success("Website that provide useful information on growing vegetables https://www.almanac.com/gardening/growing-guides#Vegetable")
+        st.success("Website that provide useful information on growing vegetables https://krishi.maharashtra.gov.in/")
         st.write("Click Here --> [Vegetable Plant Website](https://jmukhgbdnz4wjhe3xxqwim.streamlit.app/)")
 
     if col2.button("Cash Crop"):
-        st.success("Website that provide useful information on growing Cotton Plant https://cottontoday.cottoninc.com/cotton-and-water-better-management-of-an-increasingly-scarce-resource")
+        st.success("Website that provide useful information on growing Cotton Plant https://krishi.maharashtra.gov.in/")
         st.write("Click Here --> [Cash Crop Website](https://vs2gugcmvthjkgg3kxinmj.streamlit.app/)")
 
     if col3.button("Cash Crop (BETA)"):
